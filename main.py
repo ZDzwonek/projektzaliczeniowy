@@ -1,0 +1,1 @@
+print("Katalog Biblioteki\Aby dodać pozycję wpisz 0.\Aby wyszukać pozycję wpisz 1.")
